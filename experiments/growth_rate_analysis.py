@@ -1,5 +1,8 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
 import numpy as np
-from src.constrained_sequences import ConstrainedSequenceEnumerator
+from constrained_sequences import ConstrainedSequenceEnumerator
 import matplotlib.pyplot as plt
 
 def empirical_growth_rate(K=2, U=10, R=3, n_max=20):

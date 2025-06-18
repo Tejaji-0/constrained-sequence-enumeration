@@ -1,7 +1,10 @@
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../src')))
 import time
 import tracemalloc
 import csv
-from src.constrained_sequences import ConstrainedSequenceEnumerator
+from constrained_sequences import ConstrainedSequenceEnumerator
 
 PARAMS = [
     # (n, K, U, R)

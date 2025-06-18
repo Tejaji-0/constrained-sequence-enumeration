@@ -1,4 +1,4 @@
-from src.constrained_sequences import ConstrainedSequenceEnumerator
+from constrained_sequences import ConstrainedSequenceEnumerator
 import numpy as np
 
 class DNAConstrainedEncoder:
