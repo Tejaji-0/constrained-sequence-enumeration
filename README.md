@@ -3,7 +3,7 @@
 This repository contains the source code, data, and documentation for the paper:
 
 **"Enumeration of K-ary Sequences with Bounded Symbol Frequency and Run-Length Constraints"**  
-*Sri Narayana Tejaji Panda, St Paul's English School, Bangalore, India*
+*Sri Narayana Tejaji Panda*
 
 ## Overview
 
