@@ -90,13 +90,13 @@ If you use this code or results in your work, please cite:
   title={Enumeration of K-ary Sequences with Bounded Symbol Frequency and Run-Length Constraints},
   author={Panda, Sri Narayana Tejaji},
   year={2025},
-  url={https://github.com/tejaj-kumar/constrained-sequence-enumeration}
+  url={https://github.com/Tejaj-0/constrained-sequence-enumeration}
 }
 ```
 
 ## License
 
-MIT License
+CC0 1.0 Universal License
 
 ## Contact
 
@@ -104,4 +104,4 @@ Sri Narayana Tejaji Panda
 psntejaji@gmail.com
 
 ---
-**Project repository:** [https://github.com/Tejaj-0/constrained-sequence-enumeration](https://github.com/tejaj-kumar/constrained-sequence-enumeration)
+**Project repository:** [https://github.com/Tejaj-0/constrained-sequence-enumeration](https://github.com/Tejaj-0/constrained-sequence-enumeration)
