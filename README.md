@@ -40,7 +40,7 @@ The project unifies frequency-bounded and run-length limited sequence analysis, 
 - `src/flash_coding.py` &rarr; Application code for flash memory.
 - `experiments/` &rarr; Scripts, datasets, and performance benchmarks.
 - `notebooks/` &rarr; Jupyter notebooks for reproducing results and figures.
-- `LICENSE` &rarr; MIT License.
+- `LICENSE` &rarr; CC0 1.0 Universal License.
 - `README.md` &rarr; This file.
 
 ## Usage
