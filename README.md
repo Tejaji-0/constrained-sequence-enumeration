@@ -105,4 +105,4 @@ Sri Narayana Tejaji Panda
 psntejaji@gmail.com
 
 ---
-**Project repository:** [https://github.com/tejaj-kumar/constrained-sequence-enumeration](https://github.com/tejaj-kumar/constrained-sequence-enumeration)
+**Project repository:** [https://github.com/Tejaj-0/constrained-sequence-enumeration](https://github.com/tejaj-kumar/constrained-sequence-enumeration)
