@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+# OS files
+.DS_Store
+Thumbs.db
+# Data, caches
+*.npy
+*.npz
+.cache/
+# IDE/project files
+.vscode/
+.idea/
