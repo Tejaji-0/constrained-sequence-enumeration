@@ -35,7 +35,6 @@ The project unifies frequency-bounded and run-length limited sequence analysis, 
 
 ### Repository Structure
 
-- `main.tex` &rarr; Full LaTeX source of the paper (ready for arXiv submission or journal).
 - `src/constrained_sequences.py` &rarr; Core algorithms and classes.
 - `src/dna_encoder.py` &rarr; Application code for DNA storage.
 - `src/flash_coding.py` &rarr; Application code for flash memory.
